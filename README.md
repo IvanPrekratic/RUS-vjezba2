@@ -23,6 +23,7 @@ Cilj zadatka je demonstrirati mogućnosti upravljanja potrošnjom energije mikro
 
 ## 3. Slika spojeva
 
+![image](https://github.com/user-attachments/assets/cbc8b167-b224-4565-aac8-b7156ac4e064)
 
 
 ## 4. Opis rješenja
