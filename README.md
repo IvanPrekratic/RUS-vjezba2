@@ -21,7 +21,7 @@ Cilj zadatka je demonstrirati mogućnosti upravljanja potrošnjom energije mikro
 | LED dioda         | 1        | 13                  |
 | Tipkalo           | 1        | 2 (INT0)            |
 
-## 3. Slika spojeva
+## 3. Slika spoja
 
 ![image](https://github.com/user-attachments/assets/cbc8b167-b224-4565-aac8-b7156ac4e064)
 
